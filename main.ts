@@ -3,7 +3,7 @@ basic.forever(function () {
     strip.showColor(neopixel.colors(NeoPixelColors.Red))
     strip.show()
     basic.pause(2000)
-    strip.showColor(neopixel.colors(NeoPixelColors.Violet))
+    strip.showColor(neopixel.colors(NeoPixelColors.Indigo))
     strip.show()
     basic.pause(2000)
 })
